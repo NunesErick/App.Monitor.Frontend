@@ -1,3 +1,5 @@
+
+[Português](README.md) | [English](README.en.md)
 # Como rodar o projeto com Docker
 
 Siga os passos abaixo para rodar o frontend utilizando Docker e Nginx:
